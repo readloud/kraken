@@ -63,6 +63,8 @@ Releases include a Linux **AppImage** which only requires hashcat to be installe
 
   - Download: `wget https://github.com/arcaneiceman/kraken/releases/download/dockerUpdate/kraken-client-1.2.0.AppImage`
 
+You will have to give AppImage permission via properties to execute. 
+
   - Usage: `chmod +x kraken-client-1.2.0.AppImage` 
 
   - Run: `./kraken-client-1.2.0.AppImage`
@@ -71,7 +73,6 @@ Install hashcat:
 ```
 sudo apt-get install hashcat
 ```
-You will have to give AppImage permission via properties to execute. 
 
 ### Note
 
